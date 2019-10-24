@@ -1,2 +1,3 @@
-# svm
-SVM classifier with convex optimization 
+# Support Vector Machine
+SVM classifier using convex optimization (multiclassifier) 
+
